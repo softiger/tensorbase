@@ -117,11 +117,11 @@ Find more infos in [dev page](https://github.com/tensorbase/tensorbase/blob/mast
 
 Feel free to feedback any problem via [issues](https://github.com/tensorbase/tensorbase/issues).
 
-Free-style discuss: 
+Free-style discuss: (Discord is recommended currently especially when Slack invite link expired)
 
 [Discord Server](https://discord.gg/jYgmE2zsAG)
 
-[Slack Channel](https://join.slack.com/t/tensorbase/shared_invite/zt-kntzpzdc-39KAY30q3CW8I2f0cKGPAg)
+[Slack Channel](https://join.slack.com/t/tensorbase/shared_invite/zt-lxr2c0a9-~5gv5nXzPuVJ7JosR6R9iQ)
 
 WeChat Group
 
