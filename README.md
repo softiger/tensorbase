@@ -2,6 +2,9 @@
 TensorBase is a modern engineering effort for building a high performance and cost-effective bigdata warehouse in an open source culture. 
 
 ## News
+* [Status of this project](https://github.com/tensorbase/tensorbase/issues/15)
+
+More infos would be uncovered in recent weeks. Stay tuned!
 
 * [TensorBase joins Rust China Conf 2020!](https://2020conf.rustcc.cn/schedule.html)
 
