@@ -5,7 +5,7 @@ TensorBase BE is built on ideas from the following projects: [TensorBase FE (Fro
 
 TensorBase BE shows its uniqueness by rethinking from the perspective of modern hardwares and SMEs.
 
-The predecessor of TensorBase BE is moving to [TensorBase FE](https://github.com/tensorbase/tensorbase_frontier_edition). TensorBase FE is planned to release as free software when it reaches the beta quality. If you are interesting to preview TensorBase FE, an alpha plan is available. More information about TensorBase FE could be seen in [its project page](https://github.com/tensorbase/tensorbase_frontier_edition).  
+The predecessor of TensorBase BE is moving to [TensorBase FE](https://github.com/tensorbase/tensorbase_frontier_edition). TensorBase FE is planned to release as a commercial-friendly free software when it reaches the beta quality. If you are interesting to preview TensorBase FE, an alpha plan is available. More information about TensorBase FE could be seen in [its project page](https://github.com/tensorbase/tensorbase_frontier_edition).  
 
 ## Planned Goals
 -------------------
