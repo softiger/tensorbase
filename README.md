@@ -12,6 +12,7 @@ The predecessor of TensorBase BE is moving to [TensorBase FE](https://github.com
 * Optimized for modern hardwares and SMEs
 * Balancing query performance and latency
 * Exploring performance-oriented technologies in Rust community
+* Exploring several new ideas in Rust and OLAP DB community
 
 ## Roadmap
 
