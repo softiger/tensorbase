@@ -1,5 +1,5 @@
 ## What is TensorBase BE
-TensorBase BE (Base Edition) is a high performance, cloud neutral bigdata warehousing for SMEs(Small and Medium Enterprises) fully in Rust.
+TensorBase BE (Base Edition) is building a high performance, cloud neutral bigdata warehouse for SMEs(Small and Medium Enterprises) fully in Rust.
 
 TensorBase BE is built on ideas from the following projects: [TensorBase FE (Frontier Edition)](https://github.com/tensorbase/tensorbase_frontier_edition), [Apache Arrow](https://github.com/apache/arrow), [ClickHouse](https://clickhouse.tech/).
 
