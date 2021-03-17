@@ -3,9 +3,10 @@ TensorBase BE (Base Edition) is building a high performance, cloud neutral bigda
 
 TensorBase BE is built on ideas from the following projects: [TensorBase FE (Frontier Edition)](https://github.com/tensorbase/tensorbase_frontier_edition), [Apache Arrow](https://github.com/apache/arrow), [ClickHouse](https://clickhouse.tech/).
 
-TensorBase BE shows its uniqueness by rethinking from the perspective of modern hardwares and SMEs.
+TensorBase BE shows its uniqueness by rethinking from the perspective of modern hardwares and SMEs. TensorBase BE is in its early phase, welcome to share any idea you like in the [community](https://tensorbase.io/community/).
 
-The predecessor of TensorBase BE is moving to [TensorBase FE](https://github.com/tensorbase/tensorbase_frontier_edition). TensorBase FE is planned to release as a commercial-friendly free software when it reaches the beta quality. If you are interesting to preview TensorBase FE, an alpha plan is available. More information about TensorBase FE could be seen in [its project page](https://github.com/tensorbase/tensorbase_frontier_edition).  
+The predecessor of TensorBase BE is moving to [TensorBase FE](https://github.com/tensorbase/tensorbase_frontier_edition). TensorBase FE is planned to release as a commercial-friendly free software when it reaches the beta quality. If you are interested to preview TensorBase FE, go to the [website](https://tensorbase.io/) for free application. More information about TensorBase FE could be seen in [its project page](https://github.com/tensorbase/tensorbase_frontier_edition).  
+
 
 ## Planned Goals
 -------------------
