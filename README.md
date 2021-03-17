@@ -27,7 +27,7 @@ Free-style discuss: (Discord is recommended currently especially when Slack invi
 
 [Discord Server](https://discord.gg/jYgmE2zsAG)
 
-[Slack Channel](https://join.slack.com/t/tensorbase/shared_invite/zt-lxr2c0a9-~5gv5nXzPuVJ7JosR6R9iQ)
+[Slack Channel](https://join.slack.com/t/tensorbase/shared_invite/zt-ntwmjvpu-TQ9drOdUwNJWmUTXvxMumA)
 
 WeChat Group
 
