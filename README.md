@@ -15,19 +15,16 @@ Currently, we review three projects:
 * [polars](https://github.com/ritchie46/polars.git)
 * [LocustDB](https://github.com/cswinter/LocustDB.git)
 
-Join the working Group on [Discord server](https://discord.gg/E72n2jzgKD).
-
 #### Working Group - Database
 This is higher kind wg for database related topics, like ideas from papers.
 
-Join the working Group on [Discord server](https://discord.gg/E72n2jzgKD).
+Join these working groups on [Discord server](https://discord.gg/E72n2jzgKD).
 
 
 ## Roadmap
 * (WIP) initial code base and pin near goals
 
 ## Big Picture
--------------------
 * Optimized for modern hardwares and SMEs
 * Balancing query performance and latency
 * Exploring performance-oriented technologies in Rust community
