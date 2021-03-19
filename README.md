@@ -7,36 +7,40 @@ TensorBase BE shows its uniqueness by rethinking from the perspective of modern 
 
 The predecessor of TensorBase BE is moving to [TensorBase FE](https://github.com/tensorbase/tensorbase_frontier_edition). TensorBase FE is planned to release as a commercial-friendly free software when it reaches the beta quality. If you are interested to preview TensorBase FE, go to the [website](https://tensorbase.io/) for free application. 
 
+## Working Groups
 
-## Planned Goals
+#### Working Group - Engineering
+Currently, we review three projects:
+* [arrow](https://github.com/apache/arrow.git)
+* [polars](https://github.com/ritchie46/polars.git)
+* [LocustDB](https://github.com/cswinter/LocustDB.git)
+
+Join the working Group on [Discord server](https://discord.gg/E72n2jzgKD).
+
+#### Working Group - Database
+This is higher kind wg for database related topics, like ideas from papers.
+
+Join the working Group on [Discord server](https://discord.gg/E72n2jzgKD).
+
+
+## Roadmap
+* (WIP) initial code base and pin near goals
+
+## Big Picture
 -------------------
 * Optimized for modern hardwares and SMEs
 * Balancing query performance and latency
 * Exploring performance-oriented technologies in Rust community
 * Exploring several new ideas in Rust and OLAP DB community
 
-## Roadmap
-
-(TBD)
-
 ## Communications
 
-Feel free to feedback any problem via [issues](https://github.com/tensorbase/tensorbase/issues).
+Feel free to feedback any problem via issues.
 
-Free-style discuss: (Discord is recommended currently especially when Slack invite link expired)
-
-[Discord Server](https://discord.gg/jYgmE2zsAG)
-
-[Slack Channel](https://join.slack.com/t/tensorbase/shared_invite/zt-ntwmjvpu-TQ9drOdUwNJWmUTXvxMumA)
-
-WeChat Group
-
-![Wechat Group](https://user-images.githubusercontent.com/237573/103256605-d1f95f80-49c8-11eb-8cab-00b0d0bb7992.png)
-
+More communication ways on [community](https://tensorbase.io/community/)
 
 ## Contributing
 (TBD)
-
 
 ## License
 TensorBase is distributed under the terms of the Apache License (Version 2.0).
